@@ -1,4 +1,4 @@
 # test-repo
 
-Test repository.
+Test first repository.
 This is my first commit
